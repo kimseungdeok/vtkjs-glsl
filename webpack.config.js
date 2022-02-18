@@ -29,6 +29,5 @@ module.exports = {
     hot: false,
     compress: true,
     port: 3001, // 원하는 포트 번호
-
   },
 };
